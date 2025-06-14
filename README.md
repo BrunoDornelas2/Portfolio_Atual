@@ -1,12 +1,26 @@
-# React + Vite
+Bruno Dornelas — Portfólio
+👋 Olá! Sou Bruno Dornelas, um Desenvolvedor Full Stack e Artista 3D apaixonado por tecnologia, jogos e soluções criativas. Este repositório é meu portfólio, onde você encontrará alguns dos meus projetos de desenvolvimento web, sistemas, jogos e modelagem 3D.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+🚀 Sobre Mim
+🔧 Desenvolvedor Full Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🎨 Artista 3D — Modelagem, texturização e animação
 
-## Expanding the ESLint configuration
+💡 Apaixonado por tecnologia, desenvolvimento de jogos, inteligência artificial e design
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🎯 Sempre buscando aperfeiçoar minhas habilidades técnicas e criativas
+
+---
+
+🛠️ Tecnologias & Ferramentas
+👨‍💻 Desenvolvimento
+Frontend: React, JavaScript, HTML, CSS
+
+Backend: Python, C
+
+Outros: Git, GitHub, Vite
+
+🎨 Modelagem 3D
+Softwares: Blender
