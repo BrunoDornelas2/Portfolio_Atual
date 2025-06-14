@@ -62,7 +62,7 @@ function Home(){
         <div className="interno" style={{marginBottom: '30px'}}>
             <h3 className="tituloC">Contato</h3>
             <div className='containerContato'>
-                <p>Email: brunodornelas02@gmail.com</p>
+                <p style={{textAlign: 'center'}}>Email: brunodornelas02@gmail.com</p>
                 <div className='links'>
                     <a href="https://github.com/BrunoDornelas2" target="_blank">
                         <i class="fa-brands fa-github fa-2xl" style={{color: 'var(--primary-accent)'}}></i>
