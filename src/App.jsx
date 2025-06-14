@@ -6,7 +6,7 @@ function App(){
     return(
     <div>
        <main>
-            <Router>
+            <Router basename="/Portfolio_Atual/">
               <ScrollToTop />
                 <Routes>
                     <Route path="/" element={<Home />}/>
